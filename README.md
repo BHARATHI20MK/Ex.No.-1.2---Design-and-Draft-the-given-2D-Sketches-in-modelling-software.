@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
- 
+ ![Screenshot 2024-03-26 152510](https://github.com/BHARATHI20MK/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147474125/f2bd9060-aa10-419c-b54b-11a4b5a42fc9)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
